@@ -1,0 +1,11 @@
+# Build artifacts
+Vendor/
+DerivedData/
+*.xcuserstate
+xcuserdata/
+
+# llama.cpp build outputs (recreated by setup.sh)
+Packages/LlamaLocal/llama.xcframework
+
+# macOS
+.DS_Store

@@ -1,0 +1,15 @@
+{
+  "originHash" : "69bb4be9ea60bdc43bd6a30e00ae3a390063c197fa6c0b6d5a1106acff83d8cb",
+  "pins" : [
+    {
+      "identity" : "gcdwebserver",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/readium/GCDWebServer",
+      "state" : {
+        "revision" : "584db89a4c3c3be27206cce6afde037b2b6e38d8",
+        "version" : "4.0.1"
+      }
+    }
+  ],
+  "version" : 3
+}
