@@ -198,7 +198,7 @@ done
 
 # Build fat (arm64+x86_64) simulator dylib directly
 echo "Building universal simulator dylib..."
-xcrun clang++ -dynamiclib -all_load \
+xcrun clang++ -dynamiclib \
     ${SIM_STATIC_LIBS} \
     -install_name @rpath/llama.framework/llama \
     -isysroot $(xcrun --sdk iphonesimulator --show-sdk-path) \
