@@ -39,8 +39,8 @@ No cloud. No subscriptions. No jailbreak. Just your iPhone and a model.
 ### 1. Clone and build
 
 ```bash
-git clone https://github.com/pinperepette/PirateLLMServer.git
-cd PirateLLMServer
+git clone https://github.com/Pinperepette/Pirate-LLM-Server.git
+cd Pirate-LLM-Server
 
 # Build llama.cpp as a dynamic XCFramework for iOS
 ./setup.sh
